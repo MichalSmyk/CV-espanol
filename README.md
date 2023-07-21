@@ -7,3 +7,12 @@ Ambicioso por cambiar a la industria tecnológica, soy un solucionador de proble
 ### Proyectos
 
 Nombre | Descripsion | Technologia 
+--- | --- | --- |
+[Whisper Journal](https://github.com/MichalSmyk/whisper-journal)  | Diario alimentado por IA | React Native, Node.js, Express.js, MongoDB
+[Solved](https://github.com/MichalSmyk/Solved) | Búsqueda del tesoro de la ciudad | MERN, React Native
+[AceBook](https://github.com/MichalSmyk/acebook-mern-fire) | Una aplicación de redes sociales | MERN
+[MakersBnB](https://github.com/MichalSmyk/Makers_BnB) | Una aplicación de alquiler en línea | PostgreSQL, Sinatra, Ruby Active Record
+[Bank Tech Test](https://github.com/MichalSmyk/bank-tech-test) | Una prueba para escribir código limpio  | JavaScript 
+
+---
+### Educacion
